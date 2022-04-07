@@ -1,0 +1,22 @@
+server:
+  port: 9090
+  servlet:
+    session:
+      cookie:
+        name: PAC4JSESSION
+
+pac4j:
+  callbackUrl: http://127.0.0.1:9090/callback
+  client:
+    github:
+      id: 4b54efc462f9ced0b4ec
+      secret: 08a70e5691c131e3b2c90ffa65b211f0a86f2dc6
+    oauth2:
+      id: relive-client
+      secret: relive-client
+      authUrl: http://127.0.0.1:8080/oauth2/authorize
+      tokenUrl: http://127.0.0.1:8080/oauth2/token
+      profileUrl: http://127.0.0.1:8080/oauth2/userInfo
+      clientAuthenticationMethod: basicAuth
+      scope: profile
+      withState: true

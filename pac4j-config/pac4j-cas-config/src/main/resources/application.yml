@@ -1,0 +1,13 @@
+server:
+  port: 9090
+  servlet:
+    session:
+      cookie:
+        name: PAC4JSESSION
+
+pac4j:
+  callbackUrl: http://127.0.0.1:9090/callback
+  client:
+    cas:
+      loginUrl: http://127.0.0.1:8443/cas/login
+      protocol: CAS30

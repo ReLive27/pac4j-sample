@@ -1,0 +1,10 @@
+server:
+  port: 9090
+  servlet:
+    session:
+      cookie:
+        name: PAC4JSESSION
+logging:
+  level:
+    org:
+      pac4j: debug
