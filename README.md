@@ -1,10 +1,18 @@
 ## pac4j-sample
 
-基于pac4j扩展，支持主流认证协议支持
+<p align="left">
+	<a href="https://github.com/ReLive27/pac4j-sample/stargazers"><img src="https://img.shields.io/github/stars/ReLive27/pac4j-sample?style=flat-square&logo=GitHub"></a>
+	<a href="https://github.com/ReLive27/pac4j-sample/network/members"><img src="https://img.shields.io/github/forks/ReLive27/pac4j-sample?style=flat-square&logo=GitHub"></a>
+	<a href="https://github.com/ReLive27/pac4j-sample/watchers"><img src="https://img.shields.io/github/watchers/ReLive27/pac4j-sample?style=flat-square&logo=GitHub"></a>
+	<a href="https://github.com/ReLive27/pac4j-sample/issues"><img src="https://img.shields.io/github/issues/ReLive27/pac4j-sample.svg?style=flat-square&logo=GitHub"></a>
+	<a href="https://github.com/ReLive27/pac4j-sample/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ReLive27/pac4j-sample.svg?style=flat-square"></a>
+</p>
 
-### Full Archive
+该模块包含pac4j结合Spring Security使用示例。
 
-Sometimes it's difficult to have a birds eye view over an entire site; here's *pac4j-sample* from 10000 feet:
+> 注意：此工程处于孵化中，示例与相关文章处于更新中。
+
+### 相关文章
 
 - [pac4j OAuth2客户端认证]()
 - [pac4j CAS客户端认证]()
