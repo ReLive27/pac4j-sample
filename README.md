@@ -14,8 +14,6 @@
 
 ### 相关文章
 
-//TODO
-
 - [pac4j OAuth2客户端认证]()
 - [pac4j CAS客户端认证]()
 - [pac4j OIDC客户端认证]()
